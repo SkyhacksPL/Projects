@@ -1,12 +1,11 @@
 ## Hackathon 2018 Team Repositories:
-Not So Orange - https://github.com/karynabierz/hakaton   
-TheRabbaDaks	- https://gitlab.com/therabbadaks/skyhacks_1.git  
-More Powerful	- https://gitlab.com/more-powerful/sensitive_data_evaluautor/tree/develop  
-HelpToComprehend - https://github.com/HelpToComprehend/SkyHacks2018  
-WSB thugs	- https://github.com/luisenriquecgongora/SkyHackChallenge2018PL  (repo no longer active)  
-Orki z Majorki - https://github.com/dbadura/OrkiZMajorki   
-Janusze Neuronów - https://github.com/wojciech-wolny/AI   
-Lodge of scoffers	- https://github.com/jarobar435/Skyhacks_LodgeOfScoffers    |    https://github.com/Feridum/Skyhacks-AMR   		
+HelpToComprehend - https://github.com/HelpToComprehend/SkyHacks2018   
+Janusze Neuronów - https://github.com/wojciech-wolny/AI  
+Lodge of scoffers - https://github.com/jarobar435/Skyhacks_LodgeOfScoffers  |  https://github.com/Feridum/Skyhacks-AMR   
+More Powerful - https://gitlab.com/more-powerful/sensitive_data_evaluautor/tree/develop  
+Not So Orange - https://github.com/karynabierz/hakaton  
+Orki z Majorki - https://github.com/dbadura/OrkiZMajorki  
+TheRabbaDaks - https://gitlab.com/therabbadaks/skyhacks_1.git   
 
 
 ## Hackathon 2019 Team Repositories:
