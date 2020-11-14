@@ -5,7 +5,7 @@ More Powerful	- https://gitlab.com/more-powerful/sensitive_data_evaluautor/tree/
 HelpToCompregend - https://github.com/HelpToComprehend/SkyHacks2018  
 WSB thugs	- https://github.com/luisenriquecgongora/SkyHackChallenge2018PL  
 Orki z Majorki - https://github.com/dbadura/OrkiZMajorki   
-Janusze Neuronów - https://github.com/wojciech-wolny/AI 		
+Janusze Neuronów - https://github.com/wojciech-wolny/AI 	     	
 Lodge of scoffers	- https://github.com/jarobar435/Skyhacks_LodgeOfScoffers    https://github.com/Feridum/Skyhacks-AMR   		
 
 
