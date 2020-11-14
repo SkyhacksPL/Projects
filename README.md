@@ -2,7 +2,7 @@
 Not So Orange - https://github.com/karynabierz/hakaton   
 TheRabbaDaks	- https://gitlab.com/therabbadaks/skyhacks_1.git  
 More Powerful	- https://gitlab.com/more-powerful/sensitive_data_evaluautor/tree/develop  
-HelpToCompregend - https://github.com/HelpToComprehend/SkyHacks2018  
+HelpToComprehend - https://github.com/HelpToComprehend/SkyHacks2018  
 WSB thugs	- https://github.com/luisenriquecgongora/SkyHackChallenge2018PL  
 Orki z Majorki - https://github.com/dbadura/OrkiZMajorki   
 Janusze Neuronów - https://github.com/wojciech-wolny/AI   
