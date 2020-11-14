@@ -6,7 +6,7 @@ HelpToComprehend - https://github.com/HelpToComprehend/SkyHacks2018
 WSB thugs	- https://github.com/luisenriquecgongora/SkyHackChallenge2018PL  (repo no longer active)  
 Orki z Majorki - https://github.com/dbadura/OrkiZMajorki   
 Janusze Neuronów - https://github.com/wojciech-wolny/AI   
-Lodge of scoffers	- https://github.com/jarobar435/Skyhacks_LodgeOfScoffers    https://github.com/Feridum/Skyhacks-AMR   		
+Lodge of scoffers	- https://github.com/jarobar435/Skyhacks_LodgeOfScoffers    |    https://github.com/Feridum/Skyhacks-AMR   		
 
 
 ## Hackathon 2019 Team Repositories:
