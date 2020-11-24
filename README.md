@@ -22,3 +22,11 @@ NearestNeighbours - https://github.com/GrzegorzKazana/nearest-neighbours
 WeedCoders - https://github.com/Srakai/skyhacks_2019  
 ZMITAC INC. - https://github.com/lukaszkepka/zmitac.inc  
 
+## Hackathon 2020 Team Repositories:
+
+A Jack's & Jason's - https://github.com/WolnyDominik/Skyhacks-3   
+coinitialized - https://github.com/Arekcze/skyhacks-2020   
+Dwie synapsy na pięciu - https://github.com/kinoai/skyhacks2020      
+Deep4Hack - https://gitlab.com/deep4hack/deep4hack   
+GHOST - https://github.com/ColdBacon/skyhacks-app   
+More Powerful! - https://github.com/KamilZPWr/Skyhack-3   
